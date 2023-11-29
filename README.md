@@ -1,6 +1,6 @@
 # TechSync
 
-![TechSync Logo](link_to_logo.png)
+![TechSync Logo](https://avatars.githubusercontent.com/u/152437398?s=200&v=4)
 
 Welcome! TechSync is a technology company specializing in software development and IT solutions.
 
